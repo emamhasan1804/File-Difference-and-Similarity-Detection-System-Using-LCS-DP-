@@ -305,7 +305,7 @@ Additional storage is required for the two file-line vectors and the reconstruct
 Clone the repository:
 
 ```bash
-git clone <https://github.com/emamhasan1804/File-Difference-and-Similarity-Detection-System-Using-LCS-DP-.git>
+git clone https://github.com/emamhasan1804/File-Difference-and-Similarity-Detection-System-Using-LCS-DP-.git
 cd <repository-folder>
 ```
 
