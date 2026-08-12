@@ -305,7 +305,7 @@ Additional storage is required for the two file-line vectors and the reconstruct
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/emamhasan1804/File-Difference-and-Similarity-Detection-System-Using-LCS-DP-.git>
 cd <repository-folder>
 ```
 
@@ -314,13 +314,13 @@ cd <repository-folder>
 Compile using G++:
 
 ```bash
-g++ -std=c++17 main.cpp -o diff
+g++ main.cpp -o main
 ```
 
 On macOS:
 
 ```bash
-g++ -std=c++17 main.cpp -o diff
+g++ main.cpp -o main
 ```
 
 ## Usage
@@ -328,7 +328,7 @@ g++ -std=c++17 main.cpp -o diff
 Run the program with two text files:
 
 ```bash
-./diff old.txt new.txt
+./main old.txt new.txt
 ```
 
 Where:
